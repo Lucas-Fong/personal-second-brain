@@ -1,6 +1,6 @@
 ---
 name: personal-second-brain
-description: Route a user's task before answering: determine whether to search their Notion-based personal second brain, use external tools directly, or combine both. Use for career materials, product/AI/data/management viewpoints, learning synthesis, writing, personal planning, weekly reviews, and any task that may benefit from the user's documented experience, knowledge, decisions, or preferences.
+description: "Route a user's task before answering: determine whether to search their Notion-based personal second brain, use external tools directly, or combine both. Use for career materials, product/AI/data/management viewpoints, learning synthesis, writing, personal planning, weekly reviews, and any task that may benefit from the user's documented experience, knowledge, decisions, or preferences."
 ---
 
 # Personal Second Brain Router
